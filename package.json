@@ -23,6 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "*",
+    "koa-route": "^4.0.1",
     "methods": "~1.1.0",
     "path-to-regexp": "^8.0.0"
   },
